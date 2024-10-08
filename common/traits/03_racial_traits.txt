@@ -550,8 +550,8 @@ undead = {
 	tribunal_opinion = -30
 	daedra_meridia_opinion = -50
 	
-	cannot_marry = yes
-	cannot_inherit = yes
+	#cannot_marry = yes
+	#cannot_inherit = yes
 	
 	command_modifier = {
 		morale_defence = 1 # Undead Armies should in theory be immune to morale damage

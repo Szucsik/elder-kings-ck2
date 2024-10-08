@@ -958,12 +958,12 @@ purging_locals = {
 
 depopulated_province = {
 	icon = 36
-	local_tax_modifier = -0.95
-	local_build_time_modifier = 0.60
+	local_tax_modifier = -0.1
+	local_build_time_modifier = 0.90
 	local_build_cost_modifier = 0.20
 	local_revolt_risk = -0.25
-	garrison_size = -0.8
-	levy_size = -0.8
+	garrison_size = 2
+	levy_size = 2
 }
 
 minor_repopulation = {

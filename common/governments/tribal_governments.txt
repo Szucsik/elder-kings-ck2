@@ -116,7 +116,7 @@ tribal_governments = {
 		
 		dukes_called_kings = yes
 		barons_need_dynasty = no
-		can_build_tribal = no
+		can_build_tribal = yes
 		can_create_empires = no
 		can_create_kingdoms = no
 		can_build_holdings = no
@@ -127,7 +127,7 @@ tribal_governments = {
 		allow_looting = yes
 		allow_title_revokation = yes
 		ignores_de_jure_laws = yes
-		aggression = 10
+		aggression = 20
 		unit_home_modifier = {
 			supply_limit = 10
 		}
